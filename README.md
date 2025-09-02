@@ -85,18 +85,9 @@ We use the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets
    ```bash
    git clone https://github.com/your-username/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
-Install dependencies
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the notebook/script
-
-bash
-Copy code
-jupyter notebook credit_card_fraud_detection.ipynb
-or
-
-bash
-Copy code
-python fraud_detection.py
+2. **Install dependencies**
+3. **Run the notebook/script**
+   ```bash
+   jupyter notebook credit_card_fraud_detection.ipynb
+   or
+   python fraud_detection.py
